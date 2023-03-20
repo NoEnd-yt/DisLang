@@ -1,3 +1,3 @@
-* DisLang documentation
+# DisLang documentation
 
 TODO
