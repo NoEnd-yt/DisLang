@@ -1,3 +1,7 @@
 # DisLang documentation
 
-TODO
+``` text
+fn main(argv) {
+    print("Hello World!")
+}
+```
